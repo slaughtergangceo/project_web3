@@ -1,4 +1,4 @@
-# Personal project - Web 3.0 Blockchain Application
+# Personal learning project - Web 3.0 Blockchain Application
 ![Project](link.png)
 
 ## Introduction
