@@ -1,5 +1,5 @@
 # Personal learning project - Web 3.0 Blockchain Application
-![Project](link.png)
+![Project](https://i.imgur.com/2VGB6A3.png)
 
 ## Introduction
 Welcome to my first blockchain cryptocurrency app projec. Leveraging React for the frontend, I've crafted a responsive and modular design adhering to Web 3.0 standards.
