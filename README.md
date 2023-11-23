@@ -24,7 +24,7 @@ Enabled secure Ethereum transfers, utilizing advanced blockchain protocols for f
 ### 💻 Solidity Coding 
 Proficient in writing Solidity code, allowing for extensive customization within the blockchain landscape.
 
-# About me
+# 
 ### [🔍 Connect on LinkedIn](https://linkedin.com/in/guillermoerhard)
 ### [💻 Explore my work](https://guillermoerhard.com/)
 ### 📩 Contact me ➡️ me@guillermoerhard.com
