@@ -28,5 +28,6 @@ Proficient in writing Solidity code, allowing for extensive customization within
 ### [🔍 Connect on LinkedIn](https://linkedin.com/in/guillermoerhard)
 ### [💻 Explore my work](https://guillermoerhard.com/)
 ### 📩 Contact me ➡️ me@guillermoerhard.com
+#
 
 /// Project created in collaboration with Enyel Sequeira and JsMastery. ///
