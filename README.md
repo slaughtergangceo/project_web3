@@ -1,10 +1,6 @@
 # Personal project - Web 3.0 Blockchain Application
 ![Project](link.png)
 
-### [🔍 Connect on LinkedIn](https://linkedin.com/in/guillermoerhard)
-### [💻 Explore my work](https://guillermoerhard.com/)
-### 📩 Contact me ➡️ me@guillermoerhard.com
-
 ## Introduction
 Welcome to my first blockchain cryptocurrency app project, a hands-on showcase of my technical capabilities. Leveraging React for the frontend, I've crafted a responsive and modular design adhering to Web 3.0 standards.
 
@@ -27,5 +23,9 @@ Enabled secure Ethereum transfers, utilizing advanced blockchain protocols for f
 
 ### 💻 Solidity Coding 
 Proficient in writing Solidity code, allowing for extensive customization within the blockchain landscape.
+
+### [🔍 Connect on LinkedIn](https://linkedin.com/in/guillermoerhard)
+### [💻 Explore my work](https://guillermoerhard.com/)
+### 📩 Contact me ➡️ me@guillermoerhard.com
 
 /// Project created in collaboration with Enyel Sequeira and JsMastery. ///
