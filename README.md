@@ -2,7 +2,7 @@
 ![Project](link.png)
 
 ## Introduction
-Welcome to my first blockchain cryptocurrency app project, a hands-on showcase of my technical capabilities. Leveraging React for the frontend, I've crafted a responsive and modular design adhering to Web 3.0 standards.
+Welcome to my first blockchain cryptocurrency app projec. Leveraging React for the frontend, I've crafted a responsive and modular design adhering to Web 3.0 standards.
 
 ## Technical Proficiencies:
 
